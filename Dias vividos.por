@@ -8,9 +8,9 @@ programa
 		inteiro diasdevida
 		escreva("Digite seu nome: ")
 		leia(nome)
-		escreva("Digite sua idade: ")
+		escreva("Digite sua idade: ")
 		leia(idade)
-		escreva("Quantidade de dias de vividos: " + 365*idade)
+		escreva(nome + ", você já viveu " + + 365*idade + " dias " )
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -18,7 +18,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 236; 
+ * @POSICAO-CURSOR = 232; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
